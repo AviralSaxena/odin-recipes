@@ -2,15 +2,15 @@
     font-family:"Times New Roman", Arial, Helvetica, sans-serif;
     background-color: #0c2c1a;
 }
- 
-.lasagna-title{
+
+.lentil-bolognese-title{
     color:#8fc371;
     font-size: 36px;
 }
 
-.lasagna-image{
+#lentil-bolognese-image{
     height:auto;
-    width:500px;
+    width:300px;
 }
 
 .headings{

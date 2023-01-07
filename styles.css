@@ -1,15 +1,16 @@
 *{
-    font-family:Arial, Helvetica, sans-serif;
-    background-color: #9d5e43;
+    font-family:"Times New Roman", Arial, Helvetica, sans-serif;
+    background-color: #0c2c1a;
 }
 
 
 .odin-recipe-title{
-    color:#701f03;
+    color:#8fc371;
     text-align: center;
+    font-size: 40px;
 }
 
 .recipes{
-    color:#310a0b;
-    font-size: 22px;
+    color:#aec6af;
+    font-size: 24px;
 }
